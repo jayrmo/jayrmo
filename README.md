@@ -12,6 +12,7 @@
 <div style="display: inline">
   <img align="center" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  />
   <img align="center" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  />
+  <img align="center" width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 
 
 
