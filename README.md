@@ -24,11 +24,12 @@
   <img align="center" width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" margin="10px;"/>
   <img align="center" width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" margin="10px;"/>
   <img align="center" width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" margin="10px;"/>
-  </div>
+</div>
 
 
 
-## Você também me encontra em:
+## 
+- Você também me encontra em:
 <div>
 <a href="https://www.instagram.com/jayrmartins5/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"</a>
 <a href="mailto:jayr.jm7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
