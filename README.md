@@ -14,12 +14,16 @@
   <img align="center" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  />
   <img align="center" width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
   <img align="center" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  />
-  <img align="center" width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" margin="10px;"/>
+  </div>
+ 
+
+<div style="display: inline">
+- 🖥️ **With projects in:**
+   <img align="center" width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" margin="10px;"/>
   <img align="center" width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" margin="10px;"/>
   <img align="center" width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" margin="10px;"/>
   <img align="center" width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" margin="10px;"/>
-
-
+  </div>
 
 
 
